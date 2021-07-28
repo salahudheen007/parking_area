@@ -16,7 +16,7 @@ public class Vehicle {
 
     @Override
     public String toString() {
-        return "CheckinSlip         " + ddmmyyyy+"\n"+
+        return "Checkin Slip         " + ddmmyyyy+"\n"+
                 "   car_number='" + car_number + "\n" +
                 "   time='" + hhmm ;
     }
